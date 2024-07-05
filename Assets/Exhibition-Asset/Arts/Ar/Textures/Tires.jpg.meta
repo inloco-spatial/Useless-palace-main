@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: d01848c9e37577b41ba024e55cdf8c77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 28
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 28
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tires_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ce692d23588c4f8a1dc9e339bbda5
+      internalID: -1894550578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_1
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844308452894c1142aac49ceb2be0f93
+      internalID: -243834709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea02b9eee602ce4d807909d4ff2fbf4
+      internalID: 572209921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_3
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d6e34560ff7f42ada0558ce95d903
+      internalID: -39980766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_4
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8874deb8cf4f9a94c9b31a7f2cf488b1
+      internalID: -1135873670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_5
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf38cef62763b34197a588783612259
+      internalID: 1599537715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_6
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ca504b45cc704d940ee7550ba2ce7
+      internalID: -2101911027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_7
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 7161
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e84eb1f8ee0444c94637ecc90ea61e
+      internalID: -731499162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b3bbc78fcb05d478c4ca431b4fde3d
+      internalID: 1388967336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ccfb504b6d23478d72be3e32ded45
+      internalID: 150093423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_10
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeba0bf04d8fc946a9109828da0ab7a
+      internalID: 8070340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_11
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e602b752ad3f48a468220b25b0212
+      internalID: -458372172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_12
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2907ff71456dd4db3476357fef9a22
+      internalID: 1310573842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_13
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ce894704080c458e35423645d18e9
+      internalID: 2131840705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_14
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a224bc2a0f2ce7c45b9ac89c350f3772
+      internalID: 1909311296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_15
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 6138
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce404caede513044ac5c5290d8e76e6
+      internalID: 100779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b553d0a601d80024eb37eea5b23d9027
+      internalID: -1292365198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354848a2638171d4db27e88792a038a7
+      internalID: 1094845657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_18
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b7274646e6d245b368dbc31c903b3
+      internalID: -1720336372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_19
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65e2c9d9aec544f90cf49cebd0e82f
+      internalID: -243012508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_20
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a2b320fec7db409f43e7510ad7b2a
+      internalID: -470956605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_21
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b0d9baac4f48846a49fee3aeedd5c0
+      internalID: 1459728512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_22
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9226cc0ca1f6a64384d96fa852448ad
+      internalID: 631422504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_23
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 5115
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2119e5761539f41ad6ce278694c4c3
+      internalID: -2146134204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49ac5ae450b18488b685981ed275c1
+      internalID: -266762354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_25
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc38073685b636c4994f14820cdfd725
+      internalID: -1407126700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_26
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aa8a2be45fd6d46819f627c9635994
+      internalID: 764336554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_27
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35df1fa0df5f4d4ea23d28811670b69
+      internalID: 1276410244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_28
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28748b0c6e53c46880fc3bb87c9f3a
+      internalID: 1253953346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_29
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c2c457c414d849aa464a895506205
+      internalID: 229864001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_30
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867eea1caa195db4db3509831716e387
+      internalID: -1256072726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_31
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 4092
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbfef4cf3812a418c7fa6a401880c8
+      internalID: -1292274307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65251c7ed1765f4382da7b8750e4d78
+      internalID: -478079183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d59596fb820a4fa32522e39aabdbb
+      internalID: 515312341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_34
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be216af5f9a4e428abdcf81ee7c46a
+      internalID: 786037639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_35
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d262ddafac523469af89dc4ab769f9
+      internalID: 444047414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_36
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd39538738170a44599b1d3d4dca625a
+      internalID: 1865508719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_37
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9d678f8ca323c4fa99cfca7ba420b4
+      internalID: -119529743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_38
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040122dde8f2a043a4adf3cc1265bf5
+      internalID: 84137837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_39
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 3069
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca659c9307d634a872fb00fb5b85fe
+      internalID: -994593909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce299e4ca457e3a4f9d1bc85311e53fa
+      internalID: -1991585858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_41
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdae0d7bcf382447bfc0b7a441f6c30
+      internalID: 623093991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_42
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21fcb2fab297141b3bef4bf28c5ccd
+      internalID: 924115986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_43
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da964ecf51ac8041adc74ad1dd35d22
+      internalID: 2078512107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_44
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fae9087247cc4cb4eca1642ee7e73
+      internalID: -1468046919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_45
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de72f46a780a861449d078bc07bfb211
+      internalID: 2080423370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_46
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487013cc436d8654bafe1605aab620bb
+      internalID: -701934331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_47
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 2046
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098fdf3bf24715f4783dbb2f6cd1d377
+      internalID: -985917918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35399db4a778274abe58668b3a0681b
+      internalID: -1255820164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_49
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc9df915fb72b499c0fb34369e3c8a
+      internalID: -1247549513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_50
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f17e2fe8e6a174bb4f100f8bc66f2c
+      internalID: -234424055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_51
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f1dde88a51324b86d2295cb5de6d2
+      internalID: -1752653113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_52
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fdffb4df6c4194f9c7514816e11706
+      internalID: 1183118129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_53
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e474da877939644f9363d3cae0fd4e6
+      internalID: 2145466893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_54
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd89f08739f9b049a6790939942c2e8
+      internalID: -1057962467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_55
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 1023
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18002580db9e57544b59e808c58524ea
+      internalID: -642012888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed2a9eea880b834ab5e7dae85c7b079
+      internalID: 462099232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_57
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f11a882648184589b07eff88717d6
+      internalID: -579861545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_58
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ab0e79893fb94caf80760fa4e06ba
+      internalID: -587019687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_59
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8783e6844deca43bd0deab0ab03164
+      internalID: -351605351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_60
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9dd040da6df24a92b9c587d8d28d8
+      internalID: 868017274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tires_61
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 0
+        width: 849
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e408e94a8c4e8409f5a3860f73dd30
+      internalID: -196036397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4328a2dad876d1147903f152c03b0703
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tires_61: -196036397
+      Tires_62: 2084899536
+      Tires_36: 1865508719
+      Tires_4: -1135873670
+      Tires_41: 623093991
+      Tires_20: -470956605
+      Tires_18: -1720336372
+      Tires_19: -243012508
+      Tires_16: -1292365198
+      Tires_8: 1388967336
+      Tires_34: 786037639
+      Tires_13: 2131840705
+      Tires_33: 515312341
+      Tires_30: -1256072726
+      Tires_15: 100779882
+      Tires_11: -458372172
+      Tires_17: 1094845657
+      Tires_35: 444047414
+      Tires_3: -39980766
+      Tires_58: -587019687
+      Tires_60: 868017274
+      Tires_40: -1991585858
+      Tires_27: 1276410244
+      Tires_24: -266762354
+      Tires_59: -351605351
+      Tires_2: 572209921
+      Tires_55: -642012888
+      Tires_25: -1407126700
+      Tires_10: 8070340
+      Tires_44: -1468046919
+      Tires_23: -2146134204
+      Tires_47: -985917918
+      Tires_48: -1255820164
+      Tires_53: 2145466893
+      Tires_7: -731499162
+      Tires_52: 1183118129
+      Tires_49: -1247549513
+      Tires_14: 1909311296
+      Tires_21: 1459728512
+      Tires_63: -430105445
+      Tires_38: 84137837
+      Tires_26: 764336554
+      Tires_54: -1057962467
+      Tires_46: -701934331
+      Tires_39: -994593909
+      Tires_22: 631422504
+      Tires_5: 1599537715
+      Tires_6: -2101911027
+      Tires_28: 1253953346
+      Tires_29: 229864001
+      Tires_43: 2078512107
+      Tires_32: -478079183
+      Tires_42: 924115986
+      Tires_51: -1752653113
+      Tires_37: -119529743
+      Tires_45: 2080423370
+      Tires_9: 150093423
+      Tires_1: -243834709
+      Tires_0: -1894550578
+      Tires_12: 1310573842
+      Tires_57: -579861545
+      Tires_31: -1292274307
+      Tires_50: -234424055
+      Tires_56: 462099232
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

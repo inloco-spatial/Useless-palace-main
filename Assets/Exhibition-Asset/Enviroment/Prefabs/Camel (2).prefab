@@ -1,0 +1,1720 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4461022764850967734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459892312356570268}
+  m_Layer: 0
+  m_Name: HorseRPhalanxPrima
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459892312356570268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461022764850967734}
+  m_LocalRotation: {x: 0.02028962, y: -0.027705256, z: -0.08540121, w: 0.9957547}
+  m_LocalPosition: {x: -0.12583627, y: 0, z: -0.000000009536743}
+  m_LocalScale: {x: 0.9999998, y: 0.9999997, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459933363949250768}
+  m_Father: {fileID: 4466177467011979082}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 3.5202558, y: -5.093361, z: 8.483467}
+--- !u!1 &4461052707439080354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465991922934516266}
+  m_Layer: 0
+  m_Name: HorseSpine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465991922934516266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461052707439080354}
+  m_LocalRotation: {x: 6.361176e-10, y: -0.000000024931715, z: 0.034662522, w: 0.99939907}
+  m_LocalPosition: {x: -0.08358501, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459730212688928078}
+  m_Father: {fileID: 4460196965409404522}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.0000111822355, y: 0.000030070478, z: -3.3706298}
+--- !u!1 &4461960719800374762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466261399866619616}
+  m_Layer: 0
+  m_Name: HorseNeck4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466261399866619616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461960719800374762}
+  m_LocalRotation: {x: -0.0000003561111, y: 0.00000006884728, z: 0.326232, w: 0.94528973}
+  m_LocalPosition: {x: -0.07976021, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466359093936384974}
+  m_Father: {fileID: 4459840991597053190}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000045755412, y: -0.000004428851, z: 18.682693}
+--- !u!1 &4462237448330446438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460203918597593944}
+  m_Layer: 0
+  m_Name: HorseLFemur
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460203918597593944
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462237448330446438}
+  m_LocalRotation: {x: 0.8192151, y: -0.5699044, z: -0.05696493, w: -0.029164389}
+  m_LocalPosition: {x: 0.113292634, y: 0.03649681, z: 0.07364772}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459734927790362088}
+  m_Father: {fileID: 4466424337742737236}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -10.9548435, y: -174.13507, z: -126.09964}
+--- !u!1 &4462247984557711462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466359093936384974}
+  m_Layer: 0
+  m_Name: HorseNeck5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466359093936384974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462247984557711462}
+  m_LocalRotation: {x: -0.00000029564143, y: -0.000000101378234, z: 0.17585008, w: 0.98441696}
+  m_LocalPosition: {x: -0.081153564, y: -0.000000019073486, z: 3.6379787e-14}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466315248132236480}
+  m_Father: {fileID: 4466261399866619616}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000017238508, y: -0.00002508851, z: 26.74664}
+--- !u!1 &4462251767470519180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466019971144150542}
+  m_Layer: 0
+  m_Name: HorseRPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466019971144150542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462251767470519180}
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: 0.23159854, y: -0.11108438, z: -0.5632877}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0.000013661158, y: -90, z: -90}
+--- !u!1 &4462256146041078334
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460161264004988952}
+  m_Layer: 0
+  m_Name: HorseLRadius
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460161264004988952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462256146041078334}
+  m_LocalRotation: {x: 0.002010391, y: -0.0011322906, z: -0.36326197, w: 0.9316842}
+  m_LocalPosition: {x: -0.23637474, y: 0.000000019073486, z: -0.0000000047683715}
+  m_LocalScale: {x: 0.99999994, y: 0.99999964, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465966953581153768}
+  m_Father: {fileID: 4465887063641720184}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.06544386, y: -0.30500266, z: -92.09015}
+--- !u!1 &4462280225255033198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459874500213798598}
+  m_Layer: 0
+  m_Name: HorseScullBone004
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459874500213798598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462280225255033198}
+  m_LocalRotation: {x: 0.16305801, y: 0.916884, z: -0.0430361, w: -0.3617785}
+  m_LocalPosition: {x: -0.0010449982, y: 0.0052856444, z: -0.03428999}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4466177762111453588}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -2.2387478, y: -137.3148, z: 19.293179}
+--- !u!1 &4462280416804695424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459933363949250768}
+  m_Layer: 0
+  m_Name: HorseRRearHoof
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459933363949250768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462280416804695424}
+  m_LocalRotation: {x: 0.000012208897, y: 0.000050059443, z: 0.23286921, w: 0.9725081}
+  m_LocalPosition: {x: -0.0020455932, y: 0.02257429, z: 0.00037567137}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459892312356570268}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000008656332, y: 0.0065666605, z: 26.92686}
+--- !u!1 &4462374154311313220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466387788569081252}
+  m_Layer: 0
+  m_Name: HorseTail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466387788569081252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462374154311313220}
+  m_LocalRotation: {x: -0.00000003668241, y: -0.000000049075524, z: 0.05267264, w: 0.99861187}
+  m_LocalPosition: {x: -0.053745918, y: 0, z: -9.094947e-15}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465951188173088044}
+  m_Father: {fileID: 4466076601058885606}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1503422, y: 10.927298, z: 5.9463677}
+--- !u!1 &4462377491344754358
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466396977965640054}
+  m_Layer: 0
+  m_Name: Horse
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466396977965640054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462377491344754358}
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000051201414, y: -90.00001, z: -90}
+--- !u!1 &4462402397205847188
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466315248132236480}
+  m_Layer: 0
+  m_Name: HorseNeck6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466315248132236480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462402397205847188}
+  m_LocalRotation: {x: 0.00000035704323, y: 0.00000014985211, z: -0.12788925, w: 0.9917885}
+  m_LocalPosition: {x: -0.09743545, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466177762111453588}
+  m_Father: {fileID: 4466359093936384974}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00003168664, y: -0.000007745322, z: 0.73011494}
+--- !u!1 &4462425419252585448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466336020904960908}
+  m_Layer: 0
+  m_Name: HorseScullBone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466336020904960908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462425419252585448}
+  m_LocalRotation: {x: 0.000000025046972, y: 0.000000015550592, z: -0.16191742, w: 0.98680437}
+  m_LocalPosition: {x: -0.13825522, y: 0.009652939, z: -0.000000020459597}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4466177762111453588}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000012077414, y: -0.0000033513747, z: -17.521467}
+--- !u!1 &4462459164807139180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466076601058885606}
+  m_Layer: 0
+  m_Name: HorseTail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466076601058885606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462459164807139180}
+  m_LocalRotation: {x: -0.00000009979241, y: 0.0000000857787, z: 0.18979266, w: 0.9818242}
+  m_LocalPosition: {x: -0.050825994, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466387788569081252}
+  m_Father: {fileID: 4466001789952976918}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.0168977, y: 9.785207, z: 21.467083}
+--- !u!1 &4462462268491125388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466175931858272926}
+  m_Layer: 0
+  m_Name: HorseScullBone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466175931858272926
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462462268491125388}
+  m_LocalRotation: {x: 0.000000035076187, y: 0.000000021777284, z: -0.22675174, w: 0.9739526}
+  m_LocalPosition: {x: -0.13725547, y: 0.03743141, z: -0.000000017637102}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4466177762111453588}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.0000074045606, y: 0.000007148479, z: -24.28968}
+--- !u!1 &4462496799135258440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466177762111453588}
+  m_Layer: 0
+  m_Name: HorseScull
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466177762111453588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462496799135258440}
+  m_LocalRotation: {x: 0.00000023702673, y: -0.00000018163126, z: -0.632552, w: 0.7745179}
+  m_LocalPosition: {x: -0.091863096, y: -0.000000019073486, z: -3.6379787e-14}
+  m_LocalScale: {x: 0.99999994, y: 0.9999997, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466336020904960908}
+  - {fileID: 4466175931858272926}
+  - {fileID: 4459897374144789362}
+  - {fileID: 4459874500213798598}
+  m_Father: {fileID: 4466315248132236480}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000014373365, y: -0.000036522422, z: -65.068756}
+--- !u!1 &4462502645670633136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459897374144789362}
+  m_Layer: 0
+  m_Name: HorseScullBone003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459897374144789362
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462502645670633136}
+  m_LocalRotation: {x: 0.16305806, y: 0.91688406, z: 0.043036062, w: 0.3617784}
+  m_LocalPosition: {x: -0.0010449982, y: 0.0052856444, z: 0.034289982}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4466177762111453588}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 2.238744, y: 137.3148, z: 19.293182}
+--- !u!1 &4462534753172157422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466424337742737236}
+  m_Layer: 0
+  m_Name: HorsePelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466424337742737236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462534753172157422}
+  m_LocalRotation: {x: 0.70698583, y: 0.01308222, z: -0.7069857, w: -0.013082248}
+  m_LocalPosition: {x: 0.0000001568837, y: 1.5115919, z: -0.41843858}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4460203918597593944}
+  - {fileID: 4459692228083187680}
+  - {fileID: 4460196965409404522}
+  - {fileID: 4466001789952976918}
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0.000009905602, y: -89.99999, z: 177.8798}
+--- !u!1 &4462538390557198536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465887063641720184}
+  m_Layer: 0
+  m_Name: HorseLHumerus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465887063641720184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462538390557198536}
+  m_LocalRotation: {x: -0.036537908, y: 0.18993755, z: 0.47726974, w: 0.8572061}
+  m_LocalPosition: {x: -0.13350092, y: -0.000000076293944, z: 0.000000057220458}
+  m_LocalScale: {x: 1.0000004, y: 0.99999976, z: 0.99999976}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4460161264004988952}
+  m_Father: {fileID: 4466173180638298884}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -14.284002, y: 17.67626, z: 73.36634}
+--- !u!1 &4462566166297769016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459730212688928078}
+  m_Layer: 0
+  m_Name: HorseSpine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459730212688928078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462566166297769016}
+  m_LocalRotation: {x: -8.021428e-10, y: -0.00000005339584, z: 0.020745238, w: 0.9997848}
+  m_LocalPosition: {x: -0.083585, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4460077654509088480}
+  m_Father: {fileID: 4465991922934516266}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000064062106, y: 0.0000128019965, z: -2.5091686}
+--- !u!1 &4462587193603325642
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465951188173088044}
+  m_Layer: 0
+  m_Name: HorseTail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465951188173088044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462587193603325642}
+  m_LocalRotation: {x: -0.00000003085044, y: -0.000000014858216, z: -0.054542672,
+    w: 0.99851143}
+  m_LocalPosition: {x: -0.07064487, y: 0.000000038146972, z: -4.5474734e-15}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465896927337639558}
+  m_Father: {fileID: 4466387788569081252}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.11173905, y: 10.987004, z: -6.2592072}
+--- !u!1 &4462595729944279658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466223838919675070}
+  m_Layer: 0
+  m_Name: HorseLPlatform 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466223838919675070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462595729944279658}
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: -0.18848637, y: 0.06026565, z: 0.44553187}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0.000013661158, y: -90, z: -90}
+--- !u!1 &4462599108606735778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465896927337639558}
+  m_Layer: 0
+  m_Name: HorseTail5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465896927337639558
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462599108606735778}
+  m_LocalRotation: {x: -0.000000018096312, y: -0.00000002632578, z: -0.09021089, w: 0.9959227}
+  m_LocalPosition: {x: -0.062456395, y: -0.000000038146972, z: -2.2737367e-15}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466280378988903658}
+  m_Father: {fileID: 4465951188173088044}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.077991, y: 10.938263, z: -10.548849}
+--- !u!1 &4462624044700700588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459928679983495582}
+  m_Layer: 0
+  m_Name: HorseLLargeCannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459928679983495582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462624044700700588}
+  m_LocalRotation: {x: 0.03947602, y: -0.042060878, z: -0.29535735, w: 0.95364386}
+  m_LocalPosition: {x: -0.26285115, y: 0.00000017166137, z: 0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 1.0000004, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466322490808649382}
+  m_Father: {fileID: 4459734927790362088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.7698252, y: -10.8180485, z: -69.50483}
+--- !u!1 &4462635743290193190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459838131706403138}
+  m_Layer: 0
+  m_Name: HorseLFrontHoof
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459838131706403138
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462635743290193190}
+  m_LocalRotation: {x: -0.01392178, y: 0.0030848274, z: 0.13765879, w: 0.99037707}
+  m_LocalPosition: {x: -0.101907775, y: -0.0053727147, z: -0.0005090618}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4465966953581153768}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.6290092, y: 0.12788026, z: 15.898595}
+--- !u!1 &4462645234039080154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459949273303683420}
+  m_Layer: 0
+  m_Name: HorseLRearHoof
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459949273303683420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462645234039080154}
+  m_LocalRotation: {x: 0.000003332261, y: 0.000014748925, z: 0.23286827, w: 0.9725083}
+  m_LocalPosition: {x: -0.0020454787, y: 0.02257431, z: -0.0003757286}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4466322490808649382}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000031992757, y: 0.0017247739, z: 26.932007}
+--- !u!1 &4462656975706914274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459882798651553954}
+  - component: {fileID: 6636329954587139567}
+  m_Layer: 0
+  m_Name: Camel (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459882798651553954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462656975706914274}
+  m_LocalRotation: {x: 0.0068374737, y: 0.98270035, z: 0.014981002, w: -0.1844692}
+  m_LocalPosition: {x: -36.031, y: -0.095, z: 11.243}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466396977965640054}
+  - {fileID: 4466080248259536106}
+  - {fileID: 4460229270746904150}
+  - {fileID: 4466223838919675070}
+  - {fileID: 4466424337742737236}
+  - {fileID: 4466019971144150542}
+  - {fileID: 4466225107710978520}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.832, y: 201.256, z: 0.454}
+--- !u!95 &6636329954587139567
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462656975706914274}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 373fbb45b98e07b41a403f7e72e1f6e4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &4462666447089744538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466080248259536106}
+  m_Layer: 0
+  m_Name: HorseFrontRLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466080248259536106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462666447089744538}
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: 0.1884862, y: 0.06026565, z: 0.44553196}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0.000013661158, y: -90, z: -90}
+--- !u!1 &4462672997603557870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459956933069965444}
+  m_Layer: 0
+  m_Name: HorseFrontRLegRadius
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459956933069965444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462672997603557870}
+  m_LocalRotation: {x: -0.002017016, y: 0.0011125818, z: -0.3634222, w: 0.93162173}
+  m_LocalPosition: {x: -0.23637472, y: 0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1.0000004, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465988970510621246}
+  m_Father: {fileID: 4459866987629343122}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.06510569, y: 0.30406177, z: -91.89479}
+--- !u!1 &4462701171470566354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466225107710978520}
+  - component: {fileID: 4327095136635793116}
+  m_Layer: 0
+  m_Name: objGroup1_0_0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466225107710978520
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462701171470566354}
+  m_LocalRotation: {x: 0.000000030908623, y: 0.7071068, z: 0.7071068, w: -0.000000030908623}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.92827976, y: 0.92827976, z: 0.92827976}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: -90, y: 180, z: 0}
+--- !u!137 &4327095136635793116
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462701171470566354}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c5bd273e18a86e7418906e2c241d2a4d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 50b4da26e46ac0d458a4ad875966486f, type: 3}
+  m_Bones:
+  - {fileID: 4466173180638298884}
+  - {fileID: 4459844516523893824}
+  - {fileID: 4466424337742737236}
+  - {fileID: 4459850293316273626}
+  - {fileID: 4466359093936384974}
+  - {fileID: 4466261399866619616}
+  - {fileID: 4459840991597053190}
+  - {fileID: 4466177762111453588}
+  - {fileID: 4466315248132236480}
+  - {fileID: 4459897374144789362}
+  - {fileID: 4466336020904960908}
+  - {fileID: 4460196965409404522}
+  - {fileID: 4460203918597593944}
+  - {fileID: 4459692228083187680}
+  - {fileID: 4466001789952976918}
+  - {fileID: 4459734927790362088}
+  - {fileID: 4466268387227992722}
+  - {fileID: 4459928679983495582}
+  - {fileID: 4465887063641720184}
+  - {fileID: 4460161264004988952}
+  - {fileID: 4465966953581153768}
+  - {fileID: 4459838131706403138}
+  - {fileID: 4459866987629343122}
+  - {fileID: 4466076601058885606}
+  - {fileID: 4466322490808649382}
+  - {fileID: 4459949273303683420}
+  - {fileID: 4466280378988903658}
+  - {fileID: 4465896927337639558}
+  - {fileID: 4465951188173088044}
+  - {fileID: 4466387788569081252}
+  - {fileID: 4466175931858272926}
+  - {fileID: 4466269328105064014}
+  - {fileID: 4459874500213798598}
+  - {fileID: 4466177467011979082}
+  - {fileID: 4459956933069965444}
+  - {fileID: 4465988970510621246}
+  - {fileID: 4466408297334553224}
+  - {fileID: 4459892312356570268}
+  - {fileID: 4459933363949250768}
+  - {fileID: 4460186896858951590}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 4466424337742737236}
+  m_AABB:
+    m_Center: {x: -0.32988885, y: 0.17731972, z: 0.0021682456}
+    m_Extent: {x: 0.5843599, y: 0.4973526, z: 0.1799834}
+  m_DirtyAABB: 0
+--- !u!1 &4462704499335856320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459844516523893824}
+  m_Layer: 0
+  m_Name: HorseRibcage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459844516523893824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462704499335856320}
+  m_LocalRotation: {x: -0.000000011684428, y: 0.0000000061179146, z: -0.016872823,
+    w: 0.99985766}
+  m_LocalPosition: {x: -0.083585024, y: 0, z: -4.5474734e-15}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466269328105064014}
+  - {fileID: 4466173180638298884}
+  - {fileID: 4460186896858951590}
+  m_Father: {fileID: 4460077654509088480}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00001726824, y: 0.00002527831, z: 1.4542248}
+--- !u!1 &4462705001258991874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466269328105064014}
+  m_Layer: 0
+  m_Name: HorseFrontRLegScapula
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466269328105064014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462705001258991874}
+  m_LocalRotation: {x: 0.8584477, y: -0.47826406, z: 0.056602605, w: 0.1764292}
+  m_LocalPosition: {x: 0.022590723, y: -0.008347969, z: -0.045584716}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459866987629343122}
+  m_Father: {fileID: 4459844516523893824}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 20.919281, y: -175.6051, z: -120.941536}
+--- !u!1 &4462711388824016530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459692228083187680}
+  m_Layer: 0
+  m_Name: HorseRFemur
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459692228083187680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462711388824016530}
+  m_LocalRotation: {x: 0.81921375, y: -0.5699056, z: 0.056970343, w: 0.029171411}
+  m_LocalPosition: {x: 0.11329266, y: 0.03649681, z: -0.07364771}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466268387227992722}
+  m_Father: {fileID: 4466424337742737236}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 10.955796, y: 174.1351, z: -126.099266}
+--- !u!1 &4462724079019791974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466268387227992722}
+  m_Layer: 0
+  m_Name: HorseRTibia
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466268387227992722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462724079019791974}
+  m_LocalRotation: {x: 0.005168801, y: -0.068129465, z: 0.27555278, w: 0.95885473}
+  m_LocalPosition: {x: -0.15338375, y: 0.000000076293944, z: 0.0000000667572}
+  m_LocalScale: {x: 1.0000001, y: 1.0000002, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466177467011979082}
+  m_Father: {fileID: 4459692228083187680}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 7.5600963, y: -13.288257, z: 63.47998}
+--- !u!1 &4462754254945166754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460077654509088480}
+  m_Layer: 0
+  m_Name: HorseSpine4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460077654509088480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462754254945166754}
+  m_LocalRotation: {x: -0.00000001439623, y: 0.00000012794364, z: -0.0342492, w: 0.9994133}
+  m_LocalPosition: {x: -0.08358501, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459844516523893824}
+  m_Father: {fileID: 4459730212688928078}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000009084571, y: 0.000003345988, z: 2.595807}
+--- !u!1 &4462758204087972772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466177467011979082}
+  m_Layer: 0
+  m_Name: HorseRLargeCannon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466177467011979082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462758204087972772}
+  m_LocalRotation: {x: -0.039470814, y: 0.04209889, z: -0.2953569, w: 0.9536425}
+  m_LocalPosition: {x: -0.2628511, y: 0.0000001335144, z: -0.000000019073486}
+  m_LocalScale: {x: 1.0000004, y: 0.99999994, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459892312356570268}
+  m_Father: {fileID: 4466268387227992722}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.7731245, y: 10.822662, z: -69.535995}
+--- !u!1 &4462804751990164764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459866987629343122}
+  m_Layer: 0
+  m_Name: HorseFrontRLegHumerus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459866987629343122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462804751990164764}
+  m_LocalRotation: {x: 0.03653771, y: -0.18993668, z: 0.47727025, w: 0.85720605}
+  m_LocalPosition: {x: -0.13350098, y: 0.000000076293944, z: 0.000000057220458}
+  m_LocalScale: {x: 0.99999964, y: 1.0000002, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459956933069965444}
+  m_Father: {fileID: 4466269328105064014}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 14.284175, y: -17.6765, z: 73.36633}
+--- !u!1 &4462839590579625028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466001789952976918}
+  m_Layer: 0
+  m_Name: HorseTail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466001789952976918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462839590579625028}
+  m_LocalRotation: {x: 0.00000019794518, y: -0.00000013961497, z: -0.84419507, w: 0.53603613}
+  m_LocalPosition: {x: 0.14597574, y: -0.0064902497, z: 9.0718455e-10}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466076601058885606}
+  m_Father: {fileID: 4466424337742737236}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 10.98857, y: 0.3969484, z: -115.36958}
+--- !u!1 &4462850436842561852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459840991597053190}
+  m_Layer: 0
+  m_Name: HorseNeck3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459840991597053190
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462850436842561852}
+  m_LocalRotation: {x: 0.000000004682444, y: 0.00000008970276, z: 0.307694, w: 0.9514854}
+  m_LocalPosition: {x: -0.09203461, y: 0.000000038146972, z: -9.094947e-15}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466261399866619616}
+  m_Father: {fileID: 4459850293316273626}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000021206002, y: 0.000032083797, z: 21.040274}
+--- !u!1 &4462854245944282776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466173180638298884}
+  m_Layer: 0
+  m_Name: HorseLScapula
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466173180638298884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462854245944282776}
+  m_LocalRotation: {x: 0.8584475, y: -0.47826436, z: -0.056602463, w: -0.17642915}
+  m_LocalPosition: {x: 0.022590714, y: -0.008347969, z: 0.045584716}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465887063641720184}
+  m_Father: {fileID: 4459844516523893824}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -20.919275, y: 175.6051, z: -120.94155}
+--- !u!1 &4462863075099098076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460186896858951590}
+  m_Layer: 0
+  m_Name: HorseNeck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460186896858951590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462863075099098076}
+  m_LocalRotation: {x: 0.000000024429157, y: 0.00000004576607, z: -0.14048153, w: 0.99008334}
+  m_LocalPosition: {x: 0.0032950973, y: -0.0018020248, z: 6.2961136e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459850293316273626}
+  m_Father: {fileID: 4459844516523893824}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.00000227306, y: 0.0000041779654, z: -38.57666}
+--- !u!1 &4462876406037866380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459850293316273626}
+  m_Layer: 0
+  m_Name: HorseNeck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459850293316273626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462876406037866380}
+  m_LocalRotation: {x: -0.0000000138409995, y: 0.000000026046417, z: 0.054971173,
+    w: 0.99848795}
+  m_LocalPosition: {x: -0.15335229, y: 0.000000038146972, z: -4.5474734e-15}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459840991597053190}
+  m_Father: {fileID: 4460186896858951590}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000971251, y: 0.000005322205, z: -26.51013}
+--- !u!1 &4462877895053498134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465988970510621246}
+  m_Layer: 0
+  m_Name: HorseFrontRLegPhalangesManus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465988970510621246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462877895053498134}
+  m_LocalRotation: {x: 0.004749513, y: 0.011362926, z: 0.018655993, w: 0.99975014}
+  m_LocalPosition: {x: -0.19520767, y: -0.000000038146972, z: 0.0000000047683715}
+  m_LocalScale: {x: 1, y: 0.9999995, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4466408297334553224}
+  m_Father: {fileID: 4459956933069965444}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.44406807, y: 1.4369217, z: 29.52936}
+--- !u!1 &4462919658918602830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460196965409404522}
+  m_Layer: 0
+  m_Name: HorseSpine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460196965409404522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462919658918602830}
+  m_LocalRotation: {x: 0.0000000117711165, y: -0.000000057199088, z: 0.0110331895,
+    w: 0.99993914}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4465991922934516266}
+  m_Father: {fileID: 4466424337742737236}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.000005178805, y: -0.0000041891362, z: -1.0086162}
+--- !u!1 &4462922940451907904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4459734927790362088}
+  m_Layer: 0
+  m_Name: HorseLTibia
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4459734927790362088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462922940451907904}
+  m_LocalRotation: {x: -0.005164317, y: 0.06811754, z: 0.27555487, w: 0.95885503}
+  m_LocalPosition: {x: -0.15338375, y: 0.000000104904174, z: -0.0000000667572}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459928679983495582}
+  m_Father: {fileID: 4460203918597593944}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -7.558812, y: 13.288401, z: 63.47983}
+--- !u!1 &4462945087953120470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466408297334553224}
+  m_Layer: 0
+  m_Name: HorseFrontRLegFrontHoof
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466408297334553224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462945087953120470}
+  m_LocalRotation: {x: 0.013910026, y: -0.0031645116, z: 0.13704738, w: 0.9904618}
+  m_LocalPosition: {x: -0.101907805, y: -0.005372734, z: 0.00050910946}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4465988970510621246}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.6288996, y: -0.13052826, z: 15.84432}
+--- !u!1 &4462945932115627476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4465966953581153768}
+  m_Layer: 0
+  m_Name: HorseLPhalangesManus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4465966953581153768
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462945932115627476}
+  m_LocalRotation: {x: -0.0047459784, y: -0.011273671, z: 0.017865892, w: 0.9997656}
+  m_LocalPosition: {x: -0.19520767, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 1.0000001, y: 1.0000005, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459838131706403138}
+  m_Father: {fileID: 4460161264004988952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.42716163, y: -1.3968351, z: 29.477009}
+--- !u!1 &4462958785847563390
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4460229270746904150}
+  m_Layer: 0
+  m_Name: HorseLPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4460229270746904150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4462958785847563390}
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: -0.23159835, y: -0.11108438, z: -0.5632878}
+  m_LocalScale: {x: 2.54, y: 2.54, z: 2.54}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4459882798651553954}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0.000013661158, y: -90, z: -90}
+--- !u!1 &4463021518677782324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466322490808649382}
+  m_Layer: 0
+  m_Name: HorseLPhalanxPrima
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466322490808649382
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4463021518677782324}
+  m_LocalRotation: {x: -0.020290872, y: 0.02760279, z: -0.08539856, w: 0.99575776}
+  m_LocalPosition: {x: -0.12583625, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4459949273303683420}
+  m_Father: {fileID: 4459928679983495582}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.519587, y: 5.08379, z: 8.586774}
+--- !u!1 &4463035251059095126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4466280378988903658}
+  m_Layer: 0
+  m_Name: HorseTail6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4466280378988903658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4463035251059095126}
+  m_LocalRotation: {x: -0.000000027183477, y: -0.000000011503937, z: -0.0852375, w: 0.99636066}
+  m_LocalPosition: {x: -0.04023571, y: 0.000000038146972, z: 2.2737367e-15}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4465896927337639558}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.01491, y: 10.577444, z: -10.197431}

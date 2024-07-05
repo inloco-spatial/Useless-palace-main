@@ -1,0 +1,1922 @@
+fileFormatVersion: 2
+guid: bc34939fcd6d05540b590d19519597a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 28
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 28
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scull_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1256f8adb35cc4ab82820504760d50
+      internalID: 1923686694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc25835b2a6ef84bb0c7fe9acb04240
+      internalID: -549289538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_2
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6c605b7e45c4439775eb6707d5260
+      internalID: -1691669000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_3
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957868862a757e04d90ee25731a3a4f9
+      internalID: 190816317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_4
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864cbb5fb56d8148bd742b93c2d600b
+      internalID: -887280018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_5
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0cb584682ea84d9ee5fc2bfa22491
+      internalID: -346876385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_6
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57ad096b64b53e4987d0633eeed6255
+      internalID: 136214354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_7
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095251aac3d75094fae3fa41f621c07e
+      internalID: 687521624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_8
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e843277db5f9245861dbc7e5b66a99
+      internalID: 1061987899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_9
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d868615896db544b9c468f67d092c2
+      internalID: 1317482713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_10
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c304415c7f0e8645a1c29efa4bdecfc
+      internalID: -1815691444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_11
+      rect:
+        serializedVersion: 2
+        x: 10604
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3833f4c091fc54fb4181f1fccd3ee8
+      internalID: 131978436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_12
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04173ab248b5b944cb517f5dea686f73
+      internalID: 1252108294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_13
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 5120
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679331479a4ed740b3e3198678b921b
+      internalID: 1957782934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069dadca1d0c06d408c5581ddb785ee9
+      internalID: 2034653796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82b6e0d4a5ad149b2e9a32d194cc0e
+      internalID: -284193377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_16
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297e3f907de24b4e9c811b5acf1a5d4
+      internalID: 1061630069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_17
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10cde192142f064b91a3e48d1fbaf53
+      internalID: -1492118407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_18
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6adf26f471369148bcd1b10b3c6264b
+      internalID: 789497174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_19
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292954dd7d7de854d9a12f120539a91b
+      internalID: -1606925852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_20
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0e4835c33f5544bf22ae6c2fc7dc5
+      internalID: -1869604451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_21
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168bc78d5276aa40819cde7680c02b1
+      internalID: 1641882569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_22
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1603d25414e445a14872dbb226af3
+      internalID: -1055691968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_23
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a228cc5cf724a24382cdfd48958fbc5
+      internalID: -1065632428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_24
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6032abf653ea6a43bc15b7ecde3d216
+      internalID: 744897410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_25
+      rect:
+        serializedVersion: 2
+        x: 10604
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aed1f8dfc6396a42aaf11c98da9a329
+      internalID: 86627951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_26
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8455cdad7b4d704ab63f4ad9b3686f6
+      internalID: -1664012472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_27
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 4096
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb60906187c6b4593a4481bc16ed56
+      internalID: 167918258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73660e25b2a3a154ca0acabea2b6dc7e
+      internalID: 28217846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6f2972ede5b064dba360b343c060c8
+      internalID: 1111484281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_30
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a862527b0ad04cae2afed279c1fdf
+      internalID: 953717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_31
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb963352216e6c44f826c3e1189dc98a
+      internalID: -140309842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_32
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74820f21acd6b204e92f7f1e0c92fc70
+      internalID: 590135783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_33
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5d3547b56b15469b4cb91ca66bc5b
+      internalID: -2012897236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_34
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28bf3481c555c04ca308c3b27d63682
+      internalID: 1309954397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_35
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa33d605b38e25843b8e7fc9cb681e2e
+      internalID: 887742067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_36
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eae4d5a814f5440abbb8e8052670e5
+      internalID: 346905033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_37
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32876e3f4809598468bf652e0548ad0c
+      internalID: -441869379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_38
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e3391309be0640b6f9ab28a443b9b
+      internalID: 205662080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_39
+      rect:
+        serializedVersion: 2
+        x: 10604
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a766638df4ba6458cbb48e3fca54e7
+      internalID: 956177072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_40
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e916cf118da94e875064a5ca8d242
+      internalID: -1991085473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_41
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 3072
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ecde295d58a143947a9271aa2ebc9
+      internalID: -1537019864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44fd0706383eef46ac4f5ccfc3905eb
+      internalID: 531286241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_43
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae96ac528ab01d4bae4950670d0deb0
+      internalID: -1838569039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_44
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475235914b35404a82f908edbbdad02
+      internalID: 474385608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_45
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4356fc97df564597680e21f5fe109
+      internalID: 1090214285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_46
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781eaa913075624bb8d43ca323846cf
+      internalID: -1601909610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_47
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a7fd1f8bfb5a47a1bf2473668181f
+      internalID: -1325520910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_48
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae5293212e7cd64b92d23c24e85ee42
+      internalID: -1211477293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_49
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316bddc11602c84292e89eea22d23b8
+      internalID: -1527541309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_50
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49edb361562cde40ad6b0730f865a9c
+      internalID: 1099495195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_51
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff42b828544ae43bef8f67647ff8f5
+      internalID: -868005589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_52
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1122cd77fc4132b4aa904aa302b871ec
+      internalID: -1649617952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_53
+      rect:
+        serializedVersion: 2
+        x: 10604
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d685658620414789e164b7b9b7f65
+      internalID: -565462939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_54
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f80e73d8adbe4b9516fd57f8ecd41
+      internalID: 1430635749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_55
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 2048
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b262f1b6f8726498873729a86d5f69
+      internalID: 1984576674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822cb8fdff0ba0941883e2bb803481e5
+      internalID: -1529034230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_57
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f171bfd9b8d68643b3cbf4c68fa249c
+      internalID: 496968291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_58
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93e1afb80a5bc4498b6942460b8e391
+      internalID: 1409368280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_59
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5a8f1bfe0c024a954163c42e717b4
+      internalID: -824238163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_60
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c932884a136a84795aabbc498fb10c
+      internalID: -457928480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_61
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a7a01fa0be9af43aa1e86eaf78d112
+      internalID: -400194570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_62
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2e5e859646164897f772369d6b45b
+      internalID: -557618682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_63
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a0ca23c6bb1b48a3a74fcd7d869e0
+      internalID: -14643657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_64
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8771e14b6080a7429d19b5f0b2212d9
+      internalID: 581590296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_65
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d90d15bf73e1e45a366c83d34b5a11
+      internalID: 2138501823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_66
+      rect:
+        serializedVersion: 2
+        x: 9640
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e112a951de9f244482e578ea8269662
+      internalID: -484517126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_67
+      rect:
+        serializedVersion: 2
+        x: 10604
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197948371f5a3e4c923a0d8850e2b79
+      internalID: 1435637379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_68
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a658043769b60c458d681a977ca4774
+      internalID: -133746437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_69
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 1024
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b262277fdb6a2143b24fd4cf5c7928a
+      internalID: -299251052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011aa315180da094c99d3340557a9bf7
+      internalID: 1163906008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_71
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fff31044168b542a7fee6e1989fec9
+      internalID: -1217012553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_72
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fe30c16ede36469714f42ecec62d7
+      internalID: 938640944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_73
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f315d1075a5e428a053e9b6a4fd2a
+      internalID: 486394656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_74
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc2bafec2b4b346a4b6efc118830fa
+      internalID: -916310137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_75
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c713b215433434a89cce3342b5a77d
+      internalID: 1177399185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_76
+      rect:
+        serializedVersion: 2
+        x: 5784
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b9979e83ba0f429a9fc2d62fd436d
+      internalID: -1691065970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_77
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d399ae79eafb2d48882ecb7f57b3dad
+      internalID: 358020411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_78
+      rect:
+        serializedVersion: 2
+        x: 7712
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267d8d2fd294b41429f7e0857e13d7e5
+      internalID: 298629314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scull_79
+      rect:
+        serializedVersion: 2
+        x: 8676
+        y: 0
+        width: 964
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168b58d49ecfc849b596f4bf1cf2f42
+      internalID: 1621090461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e0c7368ce89d92b4fa0def3d583d0969
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scull_79: 1621090461
+      Scull_3: 190816317
+      Scull_14: 2034653796
+      Scull_50: 1099495195
+      Scull_39: 956177072
+      Scull_81: 1611969162
+      Scull_42: 531286241
+      Scull_1: -549289538
+      Scull_58: 1409368280
+      Scull_72: 938640944
+      Scull_17: -1492118407
+      Scull_41: -1537019864
+      Scull_44: 474385608
+      Scull_53: -565462939
+      Scull_22: -1055691968
+      Scull_13: 1957782934
+      Scull_23: -1065632428
+      Scull_28: 28217846
+      Scull_82: 439726327
+      Scull_76: -1691065970
+      Scull_9: 1317482713
+      Scull_56: -1529034230
+      Scull_36: 346905033
+      Scull_7: 687521624
+      Scull_83: 1778542905
+      Scull_46: -1601909610
+      Scull_24: 744897410
+      Scull_16: 1061630069
+      Scull_8: 1061987899
+      Scull_54: 1430635749
+      Scull_65: 2138501823
+      Scull_68: -133746437
+      Scull_5: -346876385
+      Scull_30: 953717631
+      Scull_27: 167918258
+      Scull_47: -1325520910
+      Scull_12: 1252108294
+      Scull_6: 136214354
+      Scull_38: 205662080
+      Scull_25: 86627951
+      Scull_32: 590135783
+      Scull_18: 789497174
+      Scull_80: 1157579732
+      Scull_61: -400194570
+      Scull_19: -1606925852
+      Scull_71: -1217012553
+      Scull_15: -284193377
+      Scull_31: -140309842
+      Scull_48: -1211477293
+      Scull_20: -1869604451
+      Scull_21: 1641882569
+      Scull_26: -1664012472
+      Scull_37: -441869379
+      Scull_66: -484517126
+      Scull_43: -1838569039
+      Scull_35: 887742067
+      Scull_59: -824238163
+      Scull_77: 358020411
+      Scull_11: 131978436
+      Scull_63: -14643657
+      Scull_33: -2012897236
+      Scull_55: 1984576674
+      Scull_78: 298629314
+      Scull_57: 496968291
+      Scull_10: -1815691444
+      Scull_34: 1309954397
+      Scull_49: -1527541309
+      Scull_74: -916310137
+      Scull_67: 1435637379
+      Scull_73: 486394656
+      Scull_2: -1691669000
+      Scull_0: 1923686694
+      Scull_70: 1163906008
+      Scull_60: -457928480
+      Scull_62: -557618682
+      Scull_69: -299251052
+      Scull_52: -1649617952
+      Scull_4: -887280018
+      Scull_45: 1090214285
+      Scull_40: -1991085473
+      Scull_64: 581590296
+      Scull_29: 1111484281
+      Scull_75: 1177399185
+      Scull_51: -868005589
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
