@@ -8,9 +8,25 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - reserved3
   - Water
   - UI
+  - reserved6
+  - reserved7
+  - Interactive
+  - Player
+  - PlayerLocal
+  - Environment
+  - UiMenu
+  - Pickup
+  - PickupNoEnvironment
+  - StereoLeft
+  - StereoRight
+  - Walkthrough
+  - MirrorReflection
+  - InternalUI
+  - HardwareObjects
+  - reserved4
   - CustomLayer1
   - CustomLayer2
   - CustomLayer3
@@ -18,22 +34,6 @@ TagManager:
   - CustomLayer5
   - CustomLayer6
   - CustomLayer7
-  - CustomLayer8
-  - Vehicles
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - AvatarRemote
   - AvatarLocal
   - Environment
